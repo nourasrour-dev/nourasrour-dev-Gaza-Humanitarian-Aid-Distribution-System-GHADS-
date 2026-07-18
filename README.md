@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="GHADSAppDeveloper.png" alt="GHADSAppDeveloper" width="700"/>
+  <img src="Gaza-Humanitarian-Aid-Distribution-System-GHADS-.png" alt="GHADS Project Interface" width="700"/>
   <br>
-  <p><b>Designed by Noura Mahmoud Srour</b></p>
-  <p><i>In collaboration with the engineering project team: Afnan Zaqout & Shahed Abu Al-Aish</i></p>
+  <h3>Project: Gaza Humanitarian Aid Distribution System (GHADS)</h3>
+  <p><b>Designed and Developed by: Noura Mahmoud Srour and the project team</b></p>
 </div>
 
 
