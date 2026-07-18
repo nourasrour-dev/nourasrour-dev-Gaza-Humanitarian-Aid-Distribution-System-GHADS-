@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  <img src="GHADSAppDeveloper.png" alt="GHADSAppDeveloper" width="700"/>
-  <br>
-  <b>Designed by Noura Mahmoud Srour</b>
+  <figure>
+    <img src="GHADSAppDeveloper.png" alt="GHADSAppDeveloper" width="700"/>
+    <figcaption><b>Designed by Noura Mahmoud Srour</b></figcaption>
+  </figure>
 </div>
 
