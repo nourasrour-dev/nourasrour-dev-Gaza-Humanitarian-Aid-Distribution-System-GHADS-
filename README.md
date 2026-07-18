@@ -2,7 +2,7 @@
   <img src="Gaza-Humanitarian-Aid-Distribution-System-GHADS-.png" alt="GHADS Project Interface" width="700"/>
   <br>
   <h3>Project: Gaza Humanitarian Aid Distribution System (GHADS)</h3>
-  <p><b>Designed and Developed by: Noura Mahmoud Srour and the project team</b></p>
+  <p><b>Designed and Developed by: The project team</b></p>
 </div>
 
 
