@@ -52,9 +52,9 @@ This project uses a **JavaFX GUI** (desktop application), not a console interfac
 
 | Name | ID | Role |
 |---|---|---|
-| Noura Mahmoud Taysir Srour | 2549011082 | 🏆 Team Leader |
+| Noura Mahmoud Taysir Srour | 2549011082 |  Team Leader |
 | Afnan Mohamed Abdel Qader Zaqout | 2549011044 | Member |
-| Huda Abdullah Suleiman Abu Tylekh | 2549011067 | Member |
+| Huda Abdallah Suleiman Abu Tailkh | 2549011077 | Member |
 | Shahd Hassan Khalil Abu Al-Aish | 2549011055 | Member |
 
 ## 🤖 AI Usage Declaration
