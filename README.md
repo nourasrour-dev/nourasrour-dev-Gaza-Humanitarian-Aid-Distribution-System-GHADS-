@@ -4,8 +4,8 @@
   <img src="Gaza-Humanitarian-Aid-Distribution-System-GHADS-.png" alt="GHADS Project Interface" width="700"/>
 </div>
 
-<div align="center">
+<h3>Developer View</h3>
+  <p><b>Designed by: Noura Mahmoud Srour</b></p>
   <img src="GHADSAppDeveloper.png" alt="GHADSAppDeveloper" width="700"/>
-  <br>
-  <b>Designed by Noura Mahmoud Srour</b>
+
 </div>
